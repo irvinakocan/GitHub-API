@@ -16,6 +16,7 @@
 		24086C622B24D63100058281 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24086C612B24D63100058281 /* Models.swift */; };
 		24086C642B24D68D00058281 /* GitHubUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24086C632B24D68D00058281 /* GitHubUserView.swift */; };
 		24086C662B24D6E900058281 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24086C652B24D6E900058281 /* Request.swift */; };
+		24086C682B24D74300058281 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24086C672B24D74300058281 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		24086C612B24D63100058281 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		24086C632B24D68D00058281 /* GitHubUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUserView.swift; sourceTree = "<group>"; };
 		24086C652B24D6E900058281 /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
+		24086C672B24D74300058281 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			children = (
 				24086C4D2B24D56900058281 /* AppDelegate.swift */,
 				24086C4F2B24D56900058281 /* SceneDelegate.swift */,
+				24086C672B24D74300058281 /* Constants.swift */,
 				24086C652B24D6E900058281 /* Request.swift */,
 				24086C612B24D63100058281 /* Models.swift */,
 				24086C632B24D68D00058281 /* GitHubUserView.swift */,
@@ -151,6 +154,7 @@
 				24086C662B24D6E900058281 /* Request.swift in Sources */,
 				24086C642B24D68D00058281 /* GitHubUserView.swift in Sources */,
 				24086C4E2B24D56900058281 /* AppDelegate.swift in Sources */,
+				24086C682B24D74300058281 /* Constants.swift in Sources */,
 				24086C502B24D56900058281 /* SceneDelegate.swift in Sources */,
 				24086C622B24D63100058281 /* Models.swift in Sources */,
 			);
